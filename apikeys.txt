@@ -1,2 +1,0 @@
-brightdata = 9e14f0a4eee8d3ab7facafc90dc3d68fa61aeb31137d5840ae0f2e8fb1d4267b
-hf_llama_3.2_1B = hf_gtWOQzqsHXgkkJCDwLTzFajZGdJAUmnMTus

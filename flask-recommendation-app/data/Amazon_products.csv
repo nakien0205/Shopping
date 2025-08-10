@@ -1,0 +1,6 @@
+title,final_price,rating,url
+"Product 1",19.99,4.5,"http://example.com/product1"
+"Product 2",29.99,4.0,"http://example.com/product2"
+"Product 3",15.99,4.8,"http://example.com/product3"
+"Product 4",49.99,4.2,"http://example.com/product4"
+"Product 5",9.99,4.7,"http://example.com/product5"
